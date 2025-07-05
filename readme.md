@@ -13,7 +13,6 @@ The application follows a modern full-stack architecture with clear separation b
 - **Database**: PostgreSQL with Drizzle ORM for type-safe database operations
 - **UI Framework**: shadcn/ui components built on Radix UI and Tailwind CSS
 - **State Management**: TanStack Query for server state management
-- **Deployment**: Optimized for Replit environment
 
 ## Key Components
 

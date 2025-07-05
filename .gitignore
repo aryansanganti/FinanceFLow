@@ -25,3 +25,4 @@ drizzle-kit.log
 .vscode/
 .idea/
 *.swp
+.vercel
