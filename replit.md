@@ -66,9 +66,6 @@ The application follows a modern full-stack architecture with clear separation b
 - **Tailwind CSS**: Utility-first styling with custom design system
 - **ESBuild**: Backend bundling for production
 
-## Deployment Strategy
-
-The application is optimized for Replit deployment:
 
 - **Development**: Uses Vite dev server with HMR and Express backend
 - **Production Build**: Frontend built to static assets, backend bundled with ESBuild
@@ -79,7 +76,3 @@ The application is optimized for Replit deployment:
 ## Changelog
 
 - July 05, 2025. Initial setup
-
-## User Preferences
-
-Preferred communication style: Simple, everyday language.

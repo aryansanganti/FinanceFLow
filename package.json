@@ -101,5 +101,6 @@
   },
   "optionalDependencies": {
     "bufferutil": "^4.0.8"
-  }
+  },
+  "DATABASE_URL": "postgres://username:password@localhost:5432/yourdbname"
 }

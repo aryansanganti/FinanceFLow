@@ -6,7 +6,6 @@ import { z } from "zod";
 
 export async function registerRoutes(app: Express): Promise<Server> {
   
-  // Transaction routes
   app.get("/api/transactions", async (req, res) => {
     try {
       const transactions = await storage.getTransactions();
